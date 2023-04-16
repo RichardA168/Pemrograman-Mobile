@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">DessertsList</string>
+
+    <string name="nameDess_1">American Pie</string>
+    <string name="nameDess_2">Baklava</string>
+    <string name="nameDess_3">Pisang Goreng</string>
+    <string name="nameDess_4">Picarones</string>
+    <string name="nameDess_5">Tarta de Santiago</string>
+    <string name="nameDess_6">Mochi</string>
+    <string name="nameDess_7">Bomboloni</string>
+    <string name="nameDess_8">Brigaderos</string>
+    <string name="nameDess_9">Waffle</string>
+    <string name="nameDess_10">Lamingtons</string>
+    <string name="nameDess_11">Syrniki</string>
+    <string name="nameDess_12">Princess Cake</string>
+    <string name="nameDess_13">Makowiec</string>
+    <string name="nameDess_14">Umm Ali</string>
+    <string name="nameDess_15">Black Forest Cherry Torte</string>
+
+    <string name="nameDrink_1">Shikuwasa Juice</string>
+    <string name="nameDrink_2">Pastis</string>
+    <string name="nameDrink_3">Cider</string>
+    <string name="nameDrink_4">Chocolate Milkshake</string>
+    <string name="nameDrink_5">Cendol</string>
+    <string name="nameDrink_6">Mango Lassi</string>
+    <string name="nameDrink_7">Sujeonggwa</string>
+    <string name="nameDrink_8">Sangria</string>
+    <string name="nameDrink_9">Eggnog</string>
+    <string name="nameDrink_10">Sake</string>
+    <string name="nameDrink_11">Lemonade</string>
+    <string name="nameDrink_12">Thai tea</string>
+    <string name="nameDrink_13">Tequila</string>
+    <string name="nameDrink_14">Raki</string>
+    <string name="nameDrink_15">Caipirinha</string>
+
+    <string name="subDess_1">American dessert</string>
+    <string name="subDess_2">Turkish dessert</string>
+    <string name="subDess_3">Indonesian dessert</string>
+    <string name="subDess_4">Peruvian dessert</string>
+    <string name="subDess_5">Spainish dessert</string>
+    <string name="subDess_6">Japanese dessert</string>
+    <string name="subDess_7">Italian dessert</string>
+    <string name="subDess_8">Brazilian dessert</string>
+    <string name="subDess_9">French dessert</string>
+    <string name="subDess_10">Australian dessert</string>
+    <string name="subDess_11">Russian dessert</string>
+    <string name="subDess_12">Swedian dessert</string>
+    <string name="subDess_13">Polandian dessert</string>
+    <string name="subDess_14">Egyptian dessert</string>
+    <string name="subDess_15">German dessert</string>
+
+    <string name="subDrink_1">Japanese drink</string>
+    <string name="subDrink_2">French drink</string>
+    <string name="subDrink_3">English drink</string>
+    <string name="subDrink_4">American drink</string>
+    <string name="subDrink_5">Indonesian drink</string>
+    <string name="subDrink_6">Indian drink</string>
+    <string name="subDrink_7">Korean drink</string>
+    <string name="subDrink_8">Spanish drink</string>
+    <string name="subDrink_9">British drink</string>
+    <string name="subDrink_10">Japanese drink</string>
+    <string name="subDrink_11">Egyptian drink</string>
+    <string name="subDrink_12">Thai drink</string>
+    <string name="subDrink_13">Mexican drink</string>
+    <string name="subDrink_14">Turkish drink</string>
+    <string name="subDrink_15">Brazilian drink</string>
+
+    <string name="dessDesc_1">
+        Dessert asli Amerika yang terbuat dari potongan apel yang dibalut kulit pie dan disajikan dengan whipped cream, es krim vanila, atau keju cheddar.
+    </string>
+    <string name="dessDesc_2">
+        Dessert Turki yang terdiri dari adonan yang dibuat berlapis dan dicampur dengan potongan kacang kemudian diberi sirup atau madu.
+    </string>
+    <string name="dessDesc_3">
+        Dessert Indonesia yang terbuat dari pisang yang dibaluti tepung dan di goreng.
+    </string>
+    <string name="dessDesc_4">
+        Dessert dari Peru yang merupakan kombinasi dari kentang manis, labu, tepung, ragi, gula dan minyak adas.
+    </string>
+    <string name="dessDesc_5">
+        Dessert kue almond dan merupakan makanan bersejarah bagi Spanyol.
+    </string>
+    <string name="dessDesc_6">
+        Dessert asli Jepang yang terbuat dari tepung beras yang sekarang beraneka rasa dan kadang terdapat es krim di dalamnya.
+    </string>
+    <string name="dessDesc_7">
+        Dessert Italia yang berupa donut, di isi dengan berbagai macam rasa.
+    </string>
+    <string name="dessDesc_8">
+        Dessert dari Brazil terbuat dari campuran bubuk coklat, susu, dan mentega kemudian diberi taburan.
+    </string>
+    <string name="dessDesc_9">
+        Dessert yang sangat populer di Belgia dan enak dimakan saat hangat dengan topping coklat nutella, es krim dan buah.
+    </string>
+    <string name="dessDesc_10">
+        Dessert asli Australia terdiri dari sponge cake yang dibalut dengan coklat dan diberi taburan kelapa.
+    </string>
+    <string name="dessDesc_11">
+        Dessert pancake ala Rusia yang terdapat campuran keju pada adonannya.
+    </string>
+    <string name="dessDesc_12">
+        Dessert dari Swedia terbuat dari lapisan sponge cake, pastry cream dan whipped cream yang dibalut dengan pasta berwarna hijau.
+    </string>
+    <string name="dessDesc_13">
+        Dessert dari Polandia roti gulung yang isinya biji bunga poppy.
+    </string>
+    <string name="dessDesc_14">
+        Dessert asal Mesir dengan campuran puff pastry, susu, gula, vanila, kismis, serpihan kelapa dan variasi kacang.
+    </string>
+    <string name="dessDesc_15">
+        Dessert asal Jerman yang secara tradisional disajikan dengan krim kocok dan cherry di atas kue bolu coklat yang telah direndam dalam sirup cherry atau kirsch.
+    </string>
+
+    <string name="drinkDesc_1">aaa</string>
+    <string name="drinkDesc_2">bbb</string>
+    <string name="drinkDesc_3">ccc</string>
+    <string name="drinkDesc_4">ddd</string>
+    <string name="drinkDesc_5">eee</string>
+    <string name="drinkDesc_6">fff</string>
+    <string name="drinkDesc_7">ggg</string>
+    <string name="drinkDesc_8">hhh</string>
+    <string name="drinkDesc_9">iii</string>
+    <string name="drinkDesc_10">jjj</string>
+    <string name="drinkDesc_11">kkk</string>
+    <string name="drinkDesc_12">lll</string>
+    <string name="drinkDesc_13">mmm</string>
+    <string name="drinkDesc_14">nnn</string>
+    <string name="drinkDesc_15">ooo</string>
+</resources>
