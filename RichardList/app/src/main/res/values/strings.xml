@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">RichardList</string>
+
+    <string name="dessDesc_1">
+        Dessert asli Amerika yang terbuat dari potongan apel yang dibalut kulit pie dan disajikan dengan whipped cream, es krim vanila, atau keju cheddar.
+    </string>
+    <string name="dessDesc_2">
+        Dessert Turki yang terdiri dari adonan yang dibuat berlapis dan dicampur dengan potongan kacang kemudian diberi sirup atau madu.
+    </string>
+    <string name="dessDesc_3">
+        Dessert Indonesia yang terbuat dari pisang yang dibaluti tepung dan di goreng.
+    </string>
+    <string name="dessDesc_4">
+        Dessert dari Peru yang merupakan kombinasi dari kentang manis, labu, tepung, ragi, gula dan minyak adas.
+    </string>
+    <string name="dessDesc_5">
+        Dessert kue almond dan merupakan makanan bersejarah bagi Spanyol.
+    </string>
+    <string name="dessDesc_6">
+        Dessert asli Jepang yang terbuat dari tepung beras yang sekarang beraneka rasa dan kadang terdapat es krim di dalamnya.
+    </string>
+    <string name="dessDesc_7">
+        Dessert Italia yang berupa donut, di isi dengan berbagai macam rasa.
+    </string>
+    <string name="dessDesc_8">
+        Dessert dari Brazil terbuat dari campuran bubuk coklat, susu, dan mentega kemudian diberi taburan.
+    </string>
+    <string name="dessDesc_9">
+        Dessert yang sangat populer di Belgia dan enak dimakan saat hangat dengan topping coklat nutella, es krim dan buah.
+    </string>
+    <string name="dessDesc_10">
+        Dessert asli Australia terdiri dari sponge cake yang dibalut dengan coklat dan diberi taburan kelapa.
+    </string>
+    <string name="dessDesc_11">
+        Dessert pancake ala Rusia yang terdapat campuran keju pada adonannya.
+    </string>
+    <string name="dessDesc_12">
+        Dessert dari Swedia terbuat dari lapisan sponge cake, pastry cream dan whipped cream yang dibalut dengan pasta berwarna hijau.
+    </string>
+    <string name="dessDesc_13">
+        Dessert dari Polandia roti gulung yang isinya biji bunga poppy.
+    </string>
+    <string name="dessDesc_14">
+        Dessert asal Mesir dengan campuran puff pastry, susu, gula, vanila, kismis, serpihan kelapa dan variasi kacang.
+    </string>
+    <string name="dessDesc_15">
+        Dessert asal Jerman yang secara tradisional disajikan dengan krim kocok dan cherry di atas kue bolu coklat yang telah direndam dalam sirup cherry atau kirsch.
+    </string>
+
+    <string name="bevdesc_1">
+        Cendol adalah minuman tradisional yang berasal dari Indonesia. Minuman ini terdiri dari campuran santan, gula merah cair, es serut, dan butiran cendol yang terbuat dari tepung beras hijau atau tepung ketan yang dicampur dengan air pandan untuk memberikan warna dan aroma khas. Cendol biasanya disajikan dalam mangkuk atau gelas besar dengan es serut di bagian atasnya.
+    </string>
+    <string name="bevdesc_2">
+        Chocolate milkshake adalah minuman yang terbuat dari campuran es krim cokelat, susu, dan cokelat cair atau sirup cokelat. Minuman ini merupakan salah satu varian milkshake yang populer di seluruh dunia.
+    </string>
+    <string name="bevdesc_3">
+        Thai tea, juga dikenal sebagai cha-yen di Thailand, adalah minuman yang populer dan menyegarkan yang berasal dari Thailand. Ini adalah perpaduan unik antara teh hitam, rempah-rempah, dan susu kental manis yang menghasilkan minuman yang krimi dan aromatik.
+    </string>
+    <string name="bevdesc_4">
+        Lemonade adalah minuman yang umumnya terbuat dari perasan lemon, air, dan gula. Rasanya asam segar dengan sentuhan manis dari gula. Lemonade seringkali disajikan dingin dengan es batu dan sering dijadikan minuman penyegar di musim panas.
+    </string>
+    <string name="bevdesc_5">
+        Mango lassi adalah variasi lassi yang populer, di mana buah mangga yang matang dan lezat dicampur dengan yoghurt, air atau susu, dan gula. Biasanya, mango lassi disajikan dingin dan sering kali diberi tambahan es batu. Rasanya manis dan menyegarkan dengan sentuhan keasaman dari yoghurt.
+    </string>
+    <string name="bevdesc_6">
+        Shikuwasa juice dibuat dengan memeras buah shikuwasa dan mengambil airnya. Juice ini sering kali disajikan dalam bentuk minuman yang menyegarkan dan populer di Okinawa. Shikuwasa juice dapat diminum secara langsung atau digunakan sebagai bahan dasar untuk minuman campuran atau makanan lainnya, seperti koktail, sorbet, atau saus.
+    </string>
+    <string name="bevdesc_7">
+        Sangria dibuat dengan mencampurkan anggur (biasanya merah), potongan buah-buahan segar seperti jeruk, apel, dan buah-buahan lainnya, serta bahan-bahan tambahan seperti gula, jus jeruk, atau brandy. Minuman ini kemudian didiamkan dalam waktu yang cukup lama, biasanya beberapa jam atau semalam, agar rasa buah dan anggur dapat menyatu dengan baik.
+    </string>
+</resources>

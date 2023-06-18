@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Beverage"
+        android:id="@+id/beverage"
+        android:icon="@drawable/baseline_emoji_food_beverage_24"/>
+    <item android:title="Dessert"
+        android:id="@+id/dessert"
+        android:icon="@drawable/baseline_cake_24"/>
+</menu>
